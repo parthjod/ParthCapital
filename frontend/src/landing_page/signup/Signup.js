@@ -2,7 +2,7 @@ import React from "react";
 
 const Signup = () => {
   const handleSignup = () => {
-    window.location.href = "http://localhost:3001";
+    window.location.href = "https://parthcapitaldashboard.onrender.com";
   };
 
   return (

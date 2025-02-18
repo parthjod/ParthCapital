@@ -31,7 +31,10 @@ function Navbar() {
           <form class="d-flex" role="search">
             <ul class="navbar-nav mb-lg-0">
               <li class="nav-item fw-medium">
-                <a class="nav-link" href="http://localhost:3001">
+                <a
+                  class="nav-link"
+                  href="https://parthcapitaldashboard.onrender.com"
+                >
                   Signup
                 </a>
               </li>
